@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/p6.dir/division.c.o  -o p6.exe -Wl,--out-implib,libp6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
