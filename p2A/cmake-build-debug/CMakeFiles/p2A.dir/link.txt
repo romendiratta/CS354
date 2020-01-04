@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/p2A.dir/n_in_a_row.c.o  -o p2A.exe -Wl,--out-implib,libp2A.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

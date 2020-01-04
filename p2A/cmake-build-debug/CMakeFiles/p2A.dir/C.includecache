@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Rohan/OneDrive - UW-Madison/College/Classes/Fall 2019/CS354/Programs/p2A/n_in_a_row.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

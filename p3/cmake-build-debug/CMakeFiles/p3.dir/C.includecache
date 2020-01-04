@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Rohan/OneDrive - UW-Madison/College/Classes/Fall 2019/CS354/Programs/p3/heapAlloc.c
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+sys/mman.h
+-
+stdio.h
+-
+string.h
+-
+heapAlloc.h
+/cygdrive/c/Users/Rohan/OneDrive - UW-Madison/College/Classes/Fall 2019/CS354/Programs/p3/heapAlloc.h
+
+/cygdrive/c/Users/Rohan/OneDrive - UW-Madison/College/Classes/Fall 2019/CS354/Programs/p3/heapAlloc.h
+
